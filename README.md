@@ -1,3 +1,10 @@
+<!doctype html>
+<html>
+	<head>
+		<title>HEY BUDDY...</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
 	<body>
 		
 		<div>
@@ -7,3 +14,4 @@
 		</div>
 		
 	</body>
+</html>
